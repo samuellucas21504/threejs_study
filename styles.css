@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+}
+
+.three_canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
